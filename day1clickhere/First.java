@@ -1,4 +1,4 @@
-package day1;
+package day1clickhere;
 
 public class First {
     public static void main(String[] args) {

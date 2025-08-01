@@ -1,5 +1,5 @@
 //Find the area and perimeter of a rectangle.
-package day1;
+package day1clickhere;
 import java.util.Scanner;
 
 public class Area {

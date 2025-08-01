@@ -1,5 +1,5 @@
 //Write a program to swap two numbers using a third variable.
-package day1;
+package day1clickhere;
 
 public class SwapNum {
     public static void main(String[] args) {

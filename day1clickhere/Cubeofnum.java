@@ -1,4 +1,4 @@
-package day1;
+package day1clickhere;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package day1;
+package day1clickhere;
 import java.util.Scanner;
 public class Largestnum {
     public static void main(String[] args) {
