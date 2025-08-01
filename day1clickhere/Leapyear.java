@@ -3,7 +3,7 @@ package day1clickhere;
 
 import java.util.Scanner;
 
-public class Leapyearit add {
+public class Leapyear add {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter a year ");
