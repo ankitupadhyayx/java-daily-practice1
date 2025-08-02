@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Pattern5 {
     public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
-    System.out.print("enter the number of line");
+    System.out.print("enter the number of line:");
     int n = sc.nextInt();
         for(int i = 1 ; i <= n ; i++){
             for(int j = 0 ; j < i ; j++){
