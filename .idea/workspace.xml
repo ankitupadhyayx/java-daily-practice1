@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b4d7722-3887-401f-a39e-956a748ae18a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/loops/Pattern1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-daily-practice1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-daily-practice1/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-daily-practice1/day1clickhere/LargenumUsingNestedifelse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-daily-practice1/day1clickhere/LargenumUsingNestedifelse.class" afterDir="false" />
-    </list>
+    <list default="true" id="5b4d7722-3887-401f-a39e-956a748ae18a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
