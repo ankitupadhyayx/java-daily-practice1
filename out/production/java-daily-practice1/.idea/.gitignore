@@ -1,3 +1,16 @@
-# Default ignored files
-/shelf/
-/workspace.xml
+# compiled Java classes
+*.class
+
+# IntelliJ / IDE
+/.idea/
+/*.iml
+
+# Build output (adjust if your output folder is different)
+out/
+
+# VS Code
+.vscode/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
