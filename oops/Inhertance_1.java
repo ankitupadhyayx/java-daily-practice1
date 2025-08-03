@@ -1,4 +1,4 @@
-package oopsconcepts1;
+package oops;
 
 class Base{
     int x;
