@@ -35,3 +35,8 @@ public class Inheritance_2 {
     }
 
 }
+// output
+
+// im a constructor
+// im a constructor
+// u are Derived class  constructor
