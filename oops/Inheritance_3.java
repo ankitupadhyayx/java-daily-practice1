@@ -10,14 +10,18 @@ package oops;
         }
     }
     class B extends A{
-        public void meth3(){
-            System.out.println("i am method 3 of claas B");
+        public void meth2(){
+            System.out.println("i am method  of claas B");
     }
-}
+        public void meth3(){
+            System.out.println("i am method 3 of class b");
+        }
+    }
 public class Inheritance_3 {
     public static void main(String[] args) {
         A a = new A();
         a.meth2();
+        B b = new B();
+        b.meth2();
     }
 }
-
