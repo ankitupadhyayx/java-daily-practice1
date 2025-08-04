@@ -14,6 +14,7 @@ package oops;
             System.out.println("i am method  of claas B");
     }
         public void meth3(){
+            @override
             System.out.println("i am method 3 of class b");
         }
     }
