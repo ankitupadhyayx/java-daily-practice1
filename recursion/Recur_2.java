@@ -13,4 +13,8 @@ public class Recur_2 {
         System.out.println(r);
     }
 }
+<<<<<<< HEAD
 //Write a recursive function to return the factorial of a given integer
+=======
+//Write a recursive function to return the factorial of a given integer
+>>>>>>> 44e8f06 (add <intro of recursion > program)
