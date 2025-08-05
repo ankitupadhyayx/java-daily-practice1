@@ -2,7 +2,7 @@ package recursion;
 
 public class Recur_9P {
     static void Name(int n ){
-        if(n==3){
+        if(n==0){
             return;
         }
         Name(n-1);
@@ -13,4 +13,4 @@ public class Recur_9P {
         Name(5);
     }
 }
-//print name 5 times
+//print name 5 times Practice_1
