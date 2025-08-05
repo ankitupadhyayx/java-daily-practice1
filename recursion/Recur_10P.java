@@ -8,7 +8,7 @@ public class Recur_10P {
                 return ;
             }
             System.out.println(i);
-            Numberprint(n-1);
+            Numberprint(i+1,n);
         }
         public static void main(String[] args){
             System.out.print("give num from 1 to N : N ?");
