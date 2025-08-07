@@ -1,7 +1,6 @@
 package recursion;
 
 public class Recur_12P {
-    // print max num in array
 
     static int max(int arr[],int index) {
         if(arr.length==index){
